@@ -15,6 +15,7 @@
     "test": "ember test"
   },
   "devDependencies": {
+    "@ember/optional-features": "^0.7.0",
     "broccoli-asset-rev": "^3.0.0",
     "ember-ajax": "^3.0.0",
     "ember-cli": "3.12.0",
@@ -28,7 +29,7 @@
     "ember-cli-inject-live-reload": "^1.4.1",
     "ember-cli-qunit": "^4.0.0",
     "ember-cli-sri": "^2.1.0",
-    "ember-cli-uglify": "^1.2.0",
+    "ember-cli-uglify": "^3.0.0",
     "ember-data": "^3.12.0",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
